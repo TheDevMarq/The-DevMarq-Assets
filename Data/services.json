@@ -1,0 +1,107 @@
+{
+  "bundlePackages": [
+    {
+      "id": "bundle_001",
+      "name": "Starter Support Pack",
+      "price": "₹5,999/Month",
+      "description": "Perfect for those just getting started.",
+      "services": [
+        { "id": "srv_001", "name": "Content for Reels/Shorts", "quantity": 6 },
+        { "id": "srv_002", "name": "Custom Graphical Posts", "quantity": 4 },
+        { "id": "srv_003", "name": "Custom Instagram Stories", "quantity": 4 },
+        { "id": "srv_004", "name": "Basic Video Editing" },
+        { "id": "srv_005", "name": "Content Calendar" }
+      ]
+    },
+    {
+      "id": "bundle_002",
+      "name": "Growth Boost Kit",
+      "price": "₹9,999/Month",
+      "description": "Designed for steady and intentional growth.",
+      "services": [
+        { "id": "srv_006", "name": "Customised Reels/Shorts Content", "quantity": 8 },
+        { "id": "srv_007", "name": "Custom Graphical Posts", "quantity": 6 },
+        { "id": "srv_008", "name": "Instagram Stories", "quantity": 8 },
+        { "id": "srv_009", "name": "Profile Optimisation" },
+        { "id": "srv_010", "name": "Video Editing" },
+        { "id": "srv_011", "name": "Content Research" },
+        { "id": "srv_012", "name": "Content Boosting", "quantity": 1 },
+        { "id": "srv_013", "name": "Growth Content Calendar" }
+      ]
+    },
+    {
+      "id": "bundle_003",
+      "name": "Creator Connect Pack",
+      "price": "₹15,999/Month",
+      "description": "For creators ready to scale.",
+      "services": [
+        { "id": "srv_014", "name": "Customised Reels/Shorts Content", "quantity": 10 },
+        { "id": "srv_015", "name": "Custom Graphical Posts", "quantity": 8 },
+        { "id": "srv_016", "name": "Instagram Stories", "quantity": 10 },
+        { "id": "srv_017", "name": "Video Editing & Optimisation" },
+        { "id": "srv_018", "name": "Profile Optimisation (Instagram + YouTube)" },
+        { "id": "srv_019", "name": "Brand Collaboration / PR Outreach" },
+        { "id": "srv_020", "name": "Content Boosting", "quantity": 2 },
+        { "id": "srv_021", "name": "Social Media Community Building" },
+        { "id": "srv_022", "name": "Niche-Specific Content Research" },
+        { "id": "srv_023", "name": "Customised Creator Content Calendar" }
+      ]
+    },
+    {
+      "id": "bundle_004",
+      "name": "Scale & Lead Kit",
+      "price": "₹19,999/Month",
+      "description": "For small businesses or personal brands launching with intention.",
+      "services": [
+        { "id": "srv_024", "name": "Basic Business Website" },
+        { "id": "srv_025", "name": "Customised Reels/Shorts Content", "quantity": 12 },
+        { "id": "srv_026", "name": "Custom Graphical Posts", "quantity": 10 },
+        { "id": "srv_027", "name": "Instagram Stories", "quantity": 14 },
+        { "id": "srv_028", "name": "Video Editing & Optimisation" },
+        { "id": "srv_029", "name": "Social Media Engagement & Networking" },
+        { "id": "srv_030", "name": "Profile Optimisation (Instagram + LinkedIn)" },
+        { "id": "srv_031", "name": "Meta Ads Setup & Management", "details": "1 Campaign" },
+        { "id": "srv_032", "name": "Click-to-Chat Automation" },
+        { "id": "srv_033", "name": "Monthly Analytics" },
+        { "id": "srv_034", "name": "Brand Visibility & Strategy Content Calendar" }
+      ]
+    },
+    {
+      "id": "bundle_005",
+      "name": "Brand Scale Pro",
+      "price": "₹25,999/Month",
+      "description": "For businesses that want everything handled.",
+      "services": [
+        { "id": "srv_035", "name": "Business Website", "details": "Multi-page or conversion-focused landing" },
+        { "id": "srv_036", "name": "Customised Reels/Shorts Content", "quantity": 16 },
+        { "id": "srv_037", "name": "Custom Graphical Posts", "quantity": 12 },
+        { "id": "srv_038", "name": "Instagram Stories", "quantity": 16 },
+        { "id": "srv_039", "name": "Advanced Video Editing & Optimisation" },
+        { "id": "srv_040", "name": "Profile Optimisation (Instagram + LinkedIn)" },
+        { "id": "srv_041", "name": "Meta Ads Setup & Management", "details": "2 Campaigns" },
+        { "id": "srv_042", "name": "Content Boosting", "quantity": 2 },
+        { "id": "srv_043", "name": "Click-to-Chat Automation (WhatsApp / IG DM)" },
+        { "id": "srv_044", "name": "Social Media Engagement & Networking" },
+        { "id": "srv_045", "name": "Monthly Analytics & Performance Insights" },
+        { "id": "srv_046", "name": "Strategic Brand & Lead Content Calendar" }
+      ]
+    },
+    {
+      "id": "bundle_006",
+      "name": "Custom & Enterprise Plans",
+      "price": "Contact Sales",
+      "description": "Tailored solutions for brands, creators, startups & growing teams.",
+      "services": [
+        { "id": "srv_047", "name": "Strategy-led Content & Growth Systems" },
+        { "id": "srv_048", "name": "Websites, Automation & Performance Marketing" },
+        { "id": "srv_049", "name": "Lead Generation, Analytics & Optimisation" }
+      ],
+      "notes": "Pricing & scope discussed post-consultation."
+    }
+  ],
+  "notes": [
+    "Content count resets monthly.",
+    "One revision round per asset.",
+    "Additional work billed separately."
+  ]
+}
