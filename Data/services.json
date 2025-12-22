@@ -1,12 +1,12 @@
 {
   "bundlePackages": [
     {
-      "id": "bundle_001",
+      "id": "bundle_starter",
       "name": "Starter Support Pack",
-      "price": "₹5,999/Month",
+      "price": "₹5,999 / Month",
       "description": "Perfect for those just getting started.",
       "services": [
-        { "id": "srv_001", "name": "Content for Reels/Shorts", "quantity": 6 },
+        { "id": "srv_001", "name": "Content for Reels / Shorts", "quantity": 6 },
         { "id": "srv_002", "name": "Custom Graphical Posts", "quantity": 4 },
         { "id": "srv_003", "name": "Custom Instagram Stories", "quantity": 4 },
         { "id": "srv_004", "name": "Basic Video Editing" },
@@ -14,12 +14,12 @@
       ]
     },
     {
-      "id": "bundle_002",
+      "id": "bundle_growth",
       "name": "Growth Boost Kit",
-      "price": "₹9,999/Month",
+      "price": "₹9,999 / Month",
       "description": "Designed for steady and intentional growth.",
       "services": [
-        { "id": "srv_006", "name": "Customised Reels/Shorts Content", "quantity": 8 },
+        { "id": "srv_006", "name": "Customised Reels / Shorts Content", "quantity": 8 },
         { "id": "srv_007", "name": "Custom Graphical Posts", "quantity": 6 },
         { "id": "srv_008", "name": "Instagram Stories", "quantity": 8 },
         { "id": "srv_009", "name": "Profile Optimisation" },
@@ -30,12 +30,12 @@
       ]
     },
     {
-      "id": "bundle_003",
+      "id": "bundle_creator",
       "name": "Creator Connect Pack",
-      "price": "₹15,999/Month",
+      "price": "₹15,999 / Month",
       "description": "For creators ready to scale.",
       "services": [
-        { "id": "srv_014", "name": "Customised Reels/Shorts Content", "quantity": 10 },
+        { "id": "srv_014", "name": "Customised Reels / Shorts Content", "quantity": 10 },
         { "id": "srv_015", "name": "Custom Graphical Posts", "quantity": 8 },
         { "id": "srv_016", "name": "Instagram Stories", "quantity": 10 },
         { "id": "srv_017", "name": "Video Editing & Optimisation" },
@@ -48,13 +48,13 @@
       ]
     },
     {
-      "id": "bundle_004",
+      "id": "bundle_scale",
       "name": "Scale & Lead Kit",
-      "price": "₹19,999/Month",
+      "price": "₹19,999 / Month",
       "description": "For small businesses or personal brands launching with intention.",
       "services": [
         { "id": "srv_024", "name": "Basic Business Website" },
-        { "id": "srv_025", "name": "Customised Reels/Shorts Content", "quantity": 12 },
+        { "id": "srv_025", "name": "Customised Reels / Shorts Content", "quantity": 12 },
         { "id": "srv_026", "name": "Custom Graphical Posts", "quantity": 10 },
         { "id": "srv_027", "name": "Instagram Stories", "quantity": 14 },
         { "id": "srv_028", "name": "Video Editing & Optimisation" },
@@ -67,13 +67,13 @@
       ]
     },
     {
-      "id": "bundle_005",
+      "id": "bundle_pro",
       "name": "Brand Scale Pro",
-      "price": "₹25,999/Month",
+      "price": "₹25,999 / Month",
       "description": "For businesses that want everything handled.",
       "services": [
         { "id": "srv_035", "name": "Business Website", "details": "Multi-page or conversion-focused landing" },
-        { "id": "srv_036", "name": "Customised Reels/Shorts Content", "quantity": 16 },
+        { "id": "srv_036", "name": "Customised Reels / Shorts Content", "quantity": 16 },
         { "id": "srv_037", "name": "Custom Graphical Posts", "quantity": 12 },
         { "id": "srv_038", "name": "Instagram Stories", "quantity": 16 },
         { "id": "srv_039", "name": "Advanced Video Editing & Optimisation" },
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "id": "bundle_006",
+      "id": "bundle_custom",
       "name": "Custom & Enterprise Plans",
       "price": "Contact Sales",
       "description": "Tailored solutions for brands, creators, startups & growing teams.",
@@ -99,9 +99,61 @@
       "notes": "Pricing & scope discussed post-consultation."
     }
   ],
-  "notes": [
+
+  "individualServices": [
+    {
+      "id": "ind_content_writing",
+      "category": "Content Writing",
+      "items": [
+        { "name": "Social Media Scripts (up to 10)", "price": "₹1,000" },
+        { "name": "Blog Writing (up to 1,000 words)", "price": "₹1,800" },
+        { "name": "Website Content (per page)", "price": "₹200", "details": "Basic content only. No SEO. 1 revision." }
+      ]
+    },
+    {
+      "id": "ind_business_writing",
+      "category": "Business Writing",
+      "items": [
+        { "name": "Quotation Template", "price": "₹800 – ₹2,000" },
+        { "name": "Invoice Template", "price": "₹800 – ₹2,000" },
+        { "name": "Purchase Order Template", "price": "₹1,000 – ₹2,500" },
+        { "name": "Business Proposal Writing", "price": "₹1,500 – ₹3,000" },
+        { "name": "Company Profile", "price": "₹2,000 – ₹4,000" },
+        { "name": "Service Description Writing", "price": "₹500 – ₹1,500 / service" },
+        { "name": "Corporate Letter Writing", "price": "₹300 – ₹800 / letter" },
+        { "name": "Contracts & Agreement Templates", "price": "₹1,500 – ₹4,000" },
+        { "name": "Policy & Procedure Documents", "price": "₹2,000 – ₹5,000" }
+      ]
+    },
+    {
+      "id": "ind_video",
+      "category": "Video Production & Editing",
+      "items": [
+        { "name": "Social Media Videos (30–60 sec)", "price": "₹800" },
+        { "name": "Enhanced Reels with Transitions & Music", "price": "₹1,800" },
+        { "name": "Advanced Video Production", "price": "₹2,800" },
+        { "name": "Promotional / Explainer Video (up to 1 min)", "price": "Starting ₹5,000" },
+        { "name": "Corporate / Brand Story Video (2–5 min)", "price": "Custom Quote" }
+      ],
+      "note": "Raw footage to be provided by client."
+    },
+    {
+      "id": "ind_automation",
+      "category": "Automation / Bots",
+      "items": [
+        { "name": "Instagram DM Automation Setup", "price": "₹4,000" },
+        { "name": "WhatsApp Automation (Pre-written DM)", "price": "₹4,500" },
+        { "name": "Selection-Type WhatsApp Bot", "price": "₹6,000" },
+        { "name": "E-commerce WhatsApp Bot", "price": "₹10,000" },
+        { "name": "Customised Bot", "price": "Custom Quote" }
+      ]
+    }
+  ],
+
+  "globalNotes": [
     "Content count resets monthly.",
     "One revision round per asset.",
-    "Additional work billed separately."
+    "Additional work billed separately.",
+    "Leads depend on niche, offer & audience response. No guarantees."
   ]
 }
