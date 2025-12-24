@@ -107,8 +107,9 @@
       "items": [
         { "name": "Social Media Scripts (up to 10)", "price": "₹1,000" },
         { "name": "Blog Writing (up to 1,000 words)", "price": "₹1,800" },
-        { "name": "Website Content (per page)", "price": "₹200", "details": "Basic content only. No SEO. 1 revision." }
+        { "name": "Website Content (per page)", "price": "₹200" }
       ]
+      "note": "Basic content only. No SEO. 1 revision."
     },
     {
       "id": "ind_business_writing",
