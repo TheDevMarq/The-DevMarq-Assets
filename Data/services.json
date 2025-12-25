@@ -133,8 +133,8 @@
         { "name": "Social Media Videos (30–60 sec)", "price": "₹800" },
         { "name": "Enhanced Reels with Transitions & Music", "price": "₹1,800" },
         { "name": "Advanced Video Production", "price": "₹2,800" },
-        { "name": "Promotional / Explainer Video (up to 1 min)", "price": "Starting ₹5,000" },
-        { "name": "Corporate / Brand Story Video (2–5 min)", "price": "Custom Quote" }
+        { "name": "Promotional/Explainer Video (up to 1 min)", "price": "Starting ₹5,000" },
+        { "name": "Corporate/Brand Story Video (2–5 min)", "price": "Custom Quote" }
       ],
       "note": "Raw footage to be provided by client."
     },
